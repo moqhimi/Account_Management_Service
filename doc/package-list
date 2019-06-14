@@ -1,0 +1,13 @@
+
+com.mobilab.accountservice
+com.mobilab.accountservice.bussiness.CurrencyExchage
+com.mobilab.accountservice.bussiness.message
+com.mobilab.accountservice.bussiness.messaging
+com.mobilab.accountservice.bussiness.process
+com.mobilab.accountservice.bussiness.utils
+com.mobilab.accountservice.config
+com.mobilab.accountservice.controller
+com.mobilab.accountservice.entities
+com.mobilab.accountservice.exceptions
+com.mobilab.accountservice.service
+com.mobilab.accountservice.testcase
